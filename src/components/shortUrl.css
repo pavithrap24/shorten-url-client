@@ -1,0 +1,19 @@
+.shortUrl {
+  margin: 50px;
+}
+
+.input {
+  width: 500px;
+  height: 25px;
+}
+
+.button {
+  margin-left: 10px;
+  height: 31px;
+}
+
+.labelTag {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
